@@ -1,0 +1,7 @@
+com\ejemplo\tipocambio\service\TipoCambioService.class
+com\ejemplo\tipocambio\model\TipoCambio.class
+com\ejemplo\tipocambio\TipocambioApplication.class
+com\ejemplo\tipocambio\controller\TipoCambioController.class
+com\ejemplo\tipocambio\repository\TipoCambioRepository.class
+com\ejemplo\tipocambio\model\TipoCambio$ConversionRequest.class
+com\ejemplo\tipocambio\model\TipoCambio$ConversionResponse.class
